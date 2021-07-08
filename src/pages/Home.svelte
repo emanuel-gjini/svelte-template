@@ -2,7 +2,7 @@
     const currentDate = new Date();
 </script>
 <main>
-    <h1>Welcome to Home Page hello</h1>
+    <h1>Welcome to Home Page</h1>
     {currentDate}
 </main>
 <style>
